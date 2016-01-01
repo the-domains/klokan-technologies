@@ -1,7 +1,7 @@
 name: Klokan Technologies
 favicon: null
-layout_spectrum: 0.6642971246037632
-typography_spectrum: 0.7708376632072031
+layout_spectrum: 0
+typography_spectrum: 0.71742
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5297795466613024
-  lightness: 0.7002629768103361
+  brandStrength: 0.5
+  lightness: 0.6875
   saturation: 0.9319530301727355
-  rhythmicContrast: 0.6408633047249168
+  rhythmicContrast: 0.75
 purpose: []
