@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Software company
+title: Software Company
 cta:
   domain: null
   bucket: null
